@@ -1,0 +1,18 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.cardWrapper{
+  width: 100%;       
+  cursor: pointer;
+}
+
+.poster{
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;   
+  object-fit: cover;     
+  border-radius: 6px;
+}
